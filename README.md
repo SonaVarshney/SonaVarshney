@@ -77,6 +77,5 @@
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SonaVarshney-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sona-varshney)  
-[![GitHub](https://img.shields.io/badge/GitHub-SonaVarshney-black?style=flat&logo=github)](https://github.com/SonaVarshney)  
 
 
