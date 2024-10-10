@@ -77,5 +77,5 @@
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SonaVarshney-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sona-varshney)  
-[![Email](https://img.shields.io/badge/Email-sonavarshney@example.com-red?style=flat&logo=gmail)](mailto:sonaa.varshney@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sonaa.varshney@gmail.com-red?style=flat&logo=gmail)](mailto:sonaa.varshney@gmail.com)
 
