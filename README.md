@@ -9,8 +9,8 @@
 - 💻 Finalist Smart India Hackathon'2023
 - 🏆 Received scholarships like **Google Generation Scholar**, **Grace Hopper Celebration Scholar**, and **Harvard WeCode Scholar**.
 - 📊 Published research on **ECAPA-Based Speaker Verification** for **Virtual Assistants : A Transfer Learning Approach**.
-- 🌱 Passionate about **Big Data**, **Machine Learning**, and **Frontend/Backend Development**.
-- 🔭 Currently exploring: DevOps, Open Source, System Design, and Machine Learning to find my niche.
+- 🌱 Passionate about  **Frontend/Backend Development** and **Big Data**.
+- 🔭 Currently exploring: **DevOps, Open Source, System Design, and Machine Learning** to find my niche.
 - ⚡ Fun fact: I love leveraging technology to solve real-world problems and continuously explore new domains!
 
 ---
