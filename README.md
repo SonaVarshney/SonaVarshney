@@ -11,7 +11,7 @@
 - 📊 Published research on **ECAPA-Based Speaker Verification** for **Virtual Assistants : A Transfer Learning Approach**.
 - 🌱 Passionate about  **Frontend/Backend Development** and **Big Data**.
 - 🔭 Currently exploring: **DevOps, Open Source, System Design, and Machine Learning** to find my niche.
-- ⚡ Fun fact: I love leveraging technology to solve real-world problems and continuously explore new domains!
+- ⚡ Fun fact: I love reading, discussing on topics and exploring things! They ignite the inner curious child in me.
 
 ---
 
@@ -65,7 +65,7 @@
 
 #### 🔹 **Mudra Mitra**
 - **Tech Stack Used:** MERN Stack
-- Mudra Mitra is a project targeting women and youth on financial literacy. I played a pivotal role in both the frontend and backend aspects of the project during the **WIEgnite Hackathon**, organized by **IEEE IGDTUW**. The application provides interactive resources and tools to enhance financial literacy and empower users to make informed financial decisions.
+- Mudra Mitra is a project targeting women and youth on financial literacy. Contributed to both the frontend and backend aspects of the project during the **WIEgnite Hackathon**, organized by **IEEE IGDTUW**. The application provides interactive resources and tools to enhance financial literacy and empower users to make informed financial decisions.
 
 ---
 
