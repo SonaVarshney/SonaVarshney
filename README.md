@@ -52,7 +52,7 @@
 ### 🌟 Projects and Experiences
 #### 🔹 **LinkedIn Internship** - Data Ingestion SRE (May-August 2024)
 - Worked on **dataset usage patterns**, **dataset freshness**, and identifying **downstream users** of offline datasets.
-- Utilized **Scala**, **Apache Spark**, **Azkaban**, **Grafana** and **MySQL**.
+- Utilized **Scala**, **Apache Spark**, **Azkaban**, **Grafana**and **MySQL**. Also , gained familiarity with Hadoop Ecosystem and other Big Data Technologies.
 
 #### 🔹 **Student-Faculty Matching App**
 - Developing a web app to match students with faculty for final-year research projects.
